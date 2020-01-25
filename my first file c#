@@ -16,3 +16,5 @@ namespace ConsoleApplication30
         }
     }
 }
+output
+true
